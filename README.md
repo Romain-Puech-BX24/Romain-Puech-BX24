@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Romain-Puech-BX24, a 2nd year Math & CS major at Ecole Polytechnique, with a biology minor
+- 👋 Hi, I’m @Romain-Puech-BX24, a 3rd year Math & CS major at Ecole Polytechnique, with a biology minor
 - 👀 I’m interested in Software engineering, Machine learning and research!
 - 💞️ I’m looking for research and software engineering summer internships in companies or universities
 - 📫 Reach me at romain.puech@polytechnique.edu and https://www.linkedin.com/in/romain-puech-07a0591aa/
